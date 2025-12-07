@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Steam AI Badge & Banner (combined)
-// @namespace    https://github.com/VincentLorenzi/AI-Banner-for-Steam
+// @namespace    https://github.com/VincentLorenzi/AI-Banner-for-Steam/
 // @version      1.0
 // @description  Add an "AI" badge to game tiles and an "AI Generated Content Disclosure" banner on app pages.
 // @author       Vincent Lorenzi, Pierre Demessence
@@ -12,15 +12,15 @@
 // @connect      raw.githubusercontent.com
 // @connect      store.steampowered.com
 // @homepageURL  https://github.com/VincentLorenzi/AI-Banner-for-Steam
-// @updateURL    https://raw.githubusercontent.com/VincentLorenzi/AI-Banner-for-Steam/steamAIBanner.user.js
-// @downloadURL  https://raw.githubusercontent.com/VincentLorenzi/AI-Banner-for-Steam/steamAIBanner.user.js
+// @updateURL    https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.js
+// @downloadURL  https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.js
 // ==/UserScript==
 
 (function () {
     'use strict';
 
     /* Configuration */
-    const APPIDS_URL = 'https://raw.githubusercontent.com/VincentLorenzi/AI-Banner-for-Steam/main/appids.json';
+    const APPIDS_URL = 'https://raw.githubusercontent.com/VincentLorenzi/AI-Banner-for-Steam/refs/heads/main/appids.json';
     const CACHE_KEY = 'aiAppIds';
     const CACHE_TIME_KEY = 'aiAppIdsCacheTime';
     const CACHE_TTL = 24 * 60 * 60 * 1000; // 24h
