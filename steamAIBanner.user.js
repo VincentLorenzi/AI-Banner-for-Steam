@@ -12,8 +12,8 @@
 // @connect      raw.githubusercontent.com
 // @connect      store.steampowered.com
 // @homepageURL  https://github.com/VincentLorenzi/AI-Banner-for-Steam
-// @updateURL    https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.js
-// @downloadURL  https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.js
+// @updateURL    https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.user.js
+// @downloadURL  https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.user.js
 // ==/UserScript==
 
 (function () {
