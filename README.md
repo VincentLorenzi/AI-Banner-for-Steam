@@ -5,7 +5,7 @@ This userscript detects likely AI‑generated element of games in Steam descript
 ## Installation
 
 1. Install TamperMonkey browser extension: [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)|[Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-2. [Open this link](https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.js)
+2. [Open this link](https://github.com/VincentLorenzi/AI-Banner-for-Steam/raw/refs/heads/main/steamAIBanner.user.js)
 3. Press install
 4. Allow user scripts
    i. Chrome: Settings>Extensions>Manage Extensions>Tampermonkey>Details>Allow User Scripts
