@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Steam AI Badge & Banner (combined)
-// @namespace    https://github.com/VincentLorenzi/AI-Banner-for-Steam/
+// @name         AI Banner for Steam
+// @namespace    https://github.com/VincentLorenzi/AI-Banner-for-Steam
 // @version      1.0
 // @description  Add an "AI" badge to game tiles and an "AI Generated Content Disclosure" banner on app pages.
 // @author       Vincent Lorenzi, Pierre Demessence
